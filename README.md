@@ -180,9 +180,6 @@ my environment is now set up with languages like Python, Dart
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
  checked
 
-16. Document Your Setup:
-    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process.
-
     just to mention a few on
     Visual Studio Code (VS Code):
 
@@ -193,6 +190,11 @@ my environment is now set up with languages like Python, Dart
       Code formatting: Prettier for various languages, EditorConfig for managing consistent formatting across teams.
 
      Version control integration: GitLens for advanced Git functionalities within VS Code.
+    
+17. Document Your Setup:
+    Create a comprehensive document outlining the steps you've taken to set up your developer environment. Include any configurations, customizations, or troubleshooting steps encountered during the process.
+
+
 
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
